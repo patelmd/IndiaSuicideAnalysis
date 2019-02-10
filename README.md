@@ -19,7 +19,7 @@ Dataset from the Kaggle link above contains data of suicide counts across the st
 ## 1. Distribution of suicides according to Educational status and Gender
 The number of suicides appeared to be concentrated toward those in Primary and Secondary including those with no education. This could perhap indicate those with lower social status tend to have lower education levels and possibly due to academic pressure to do well. 
 
-<img align="center" src="Capture.png" height=400>
+<img align="center" src="Capture.PNG" height=400>
 <img align="center" src="Capture0.png" height=400>
 
 <br>
@@ -27,7 +27,7 @@ The number of suicides appeared to be concentrated toward those in Primary and S
 ## 2. Distribution of number of suicides on the basis of social status
 This was interesting because societal norms would indicate that a married couple who are happy and have healthy family dynamic would be less likely to commit suicide. This dataset showed otherwise. While most of the causes of the suicides are not known, the three major causes among the known cases are family problems, prolonged illness and mental illness.
 
-<img align="center" src="Capture2.png" height=400>
+<img align="center" src="Capture2.PNG" height=400>
 
 
 <br>
@@ -35,25 +35,25 @@ This was interesting because societal norms would indicate that a married couple
 ## 3. #2 made me want to look into the married couple data. I found that housewives are the major victims in suicide!  
 This could be due to dowry disputes. This could be due to the fact that there are lower representation by women in professional careers, and also iterates the importance of female education and women empowerment. This image showed that financially independent women are much more mentally stronger.
 
-<img align="center" src="Capture4.png" height=400>
+<img align="center" src="Capture4.PNG" height=400>
 
 <br>
 
 ## 4. What about farmers?
 It's really disheartening to see farmers who helped feed the country are the highest victims in suicide than any other profession.
 
-<img align="center" src="Capture4.png" height=400>
+<img align="center" src="Capture4.PNG" height=400>
 
 <br>
 
 ## 5. According to the data below, we can see that 15-29 is the most vulnerable age in all states except Kerala.
-<img align="center" src="Capture5.png" height=400>
+<img align="center" src="Capture5.PNG" height=400>
 
 <br>
 
 ## 6. The trend of suicide rate is increasing with time. The percentage increase in suicide is 24.8% between 2001 to 2012. 
 
-<img align="center" src="Capture3.png" height=400>
+<img align="center" src="Capture3.PNG" height=400>
 
 <br>
 
