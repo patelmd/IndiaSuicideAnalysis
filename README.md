@@ -21,10 +21,12 @@ The number of suicides appeared to be concentrated toward those in Primary and S
 
 <img align="center" src="img/Capture.png" height=400>
 <img align="center" src="img/Capture0.png" height=400>
+
 <br>
 
 ## 2. Distribution of number of suicides on the basis of social status
 This was interesting because societal norms would indicate that a married couple who are happy and have healthy family dynamic would be less likely to commit suicide. This dataset showed otherwise. While most of the causes of the suicides are not known, the three major causes among the known cases are family problems, prolonged illness and mental illness.
+
 <img align="center" src="img/Capture2.png" height=400>
 
 
@@ -32,12 +34,14 @@ This was interesting because societal norms would indicate that a married couple
 
 ## 3. #2 made me want to look into the married couple data. I found that housewives are the major victims in suicide!  
 This could be due to dowry disputes. This could be due to the fact that there are lower representation by women in professional careers, and also iterates the importance of female education and women empowerment. This image showed that financially independent women are much more mentally stronger.
+
 <img align="center" src="img/Capture4.png" height=400>
 
 <br>
 
 ## 4. What about farmers?
 It's really disheartening to see farmers who helped feed the country are the highest victims in suicide than any other profession.
+
 <img align="center" src="img/Capture4.png" height=400>
 
 <br>
@@ -48,6 +52,7 @@ It's really disheartening to see farmers who helped feed the country are the hig
 <br>
 
 ## 6. The trend of suicide rate is increasing with time. The percentage increase in suicide is 24.8% between 2001 to 2012. 
+
 <img align="center" src="img/Capture3.png" height=400>
 
 <br>
