@@ -1,4 +1,4 @@
-# Suicide Rate in India between 2001-2013
+# Analysis of suicides in India between 2001-2013
 https://public.tableau.com/profile/mdptl#!/vizhome/SuicideRateinIndiabetween2001-2013/Dashboard1
 
 An exploratory data analysis and understanding the ethical implications in data science. This project was a practice in understanding the biases and data discrimination in the data model. The first step is awareness and hopefully the above list will help you and your colleagues. If you know about bias, you can remain alert to it in your own work and that of others. Be critical and always challenge assumptions and designs. Recognising the types of bias, and understanding their impact on your conclusions will make you a better Data Scientist and improve the quality of your conclusions.
