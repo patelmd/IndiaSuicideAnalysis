@@ -51,7 +51,7 @@ It's really disheartening to see farmers who helped feed the country are the hig
 
 <br>
 
-## 6. The trend of suicide rate is increasing with time. The percentage increase in suicide is 24.8% between 2001 to 2012. 
+## 6. The trend of suicide rate is increasing with time. The percentage increase in suicide is 24.8% between 2001 to 2013. 
 
 <img align="center" src="Capture3.PNG" height=400>
 
